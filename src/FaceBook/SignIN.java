@@ -1,4 +1,4 @@
-package FaceBook;
+package faceBook;
 
 import java.time.Duration;
 import java.util.concurrent.TimeUnit;

@@ -1,4 +1,4 @@
-package FaceBook;
+package faceBook;
 
 public class SampleJava {
 	
